@@ -7,7 +7,7 @@
 		  infinite: true,
 		  slidesToShow: 1,
 		  arrows: true,
-		  autoplay: false,
+		  autoplay: true,
 		  slidesToScroll: 1
 	});
 
